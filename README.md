@@ -18,16 +18,12 @@ Hey everyone! In the programming realm, I thrive on adaptability and self-manage
 
 ## Contact me
 
-<a href="https://www.facebook.com/profile.php?id=100090499342341&mibextid=uzlsIk" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png"/>
+<a href="www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:530nicolas@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" style="height: 20px;"/>
 
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
 
 <!--
 **Nicolaserd/Nicolaserd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
