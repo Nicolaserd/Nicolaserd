@@ -20,9 +20,11 @@ Hey everyone! In the programming realm, I thrive on adaptability and self-manage
 
 <a href="www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
+</a>
 
 <a href="mailto:530nicolas@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" style="height: 20px;"/>
+</a>
 
 
 <!--
