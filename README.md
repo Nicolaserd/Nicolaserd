@@ -26,6 +26,8 @@ Hey everyone! In the programming realm, I thrive on adaptability and self-manage
 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" style="height: 20px;"/>
 </a>
 
+[![Enviar correo](https://cdn-icons-png.flaticon.com/128/732/732200.png)](mailto:530nicolas@gmail.com)
+
 
 <!--
 **Nicolaserd/Nicolaserd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
