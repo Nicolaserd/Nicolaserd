@@ -12,6 +12,8 @@
 
 Hey everyone! In the programming realm, I thrive on adaptability and self-management. I tackle challenges head-on with determination and a passion for innovation. Let's embrace every coding hurdle with enthusiasm and drive!
 
+## I’m currently working on 
+I am currently working on a user registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
 
 ## Recent projects.
 .......
@@ -26,7 +28,7 @@ Hey everyone! In the programming realm, I thrive on adaptability and self-manage
 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" style="height: 20px;"/>
 </a>
 
-[![Enviar correo](https://cdn-icons-png.flaticon.com/128/732/732200.png)](mailto:530nicolas@gmail.com)
+
 
 
 <!--
