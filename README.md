@@ -10,10 +10,11 @@
 ## Introduction
 
 
-Hey everyone! In the programming realm, I thrive on adaptability and self-management. I tackle challenges head-on with determination and a passion for innovation. Let's embrace every coding hurdle with enthusiasm and drive!
+Hey everyone! As a programmer, being adaptable and self-managing is crucial to me. I tackle every challenge with energy and determination, seeing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused allows me to build solid, user-friendly solutions, driving technological advancement forward.
 
 ## I’m currently working on 
-I am currently working on a user registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
+- I'm currently working on a user registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
+- I'm developing an app for an e-commerce platform on the backend. <a> </a>
 
 ## Recent projects.
 .......
