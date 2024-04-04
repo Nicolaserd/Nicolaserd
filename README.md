@@ -24,9 +24,7 @@ I am currently working on a user registration for Jcofaith: <a href="https://cla
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
 </a>
 
-<a href="mailto:530nicolas@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" style="height: 20px;"/>
-</a>
+
 
 
 
