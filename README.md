@@ -14,7 +14,7 @@ Hey everyone! As a programmer, being adaptable and self-managing is crucial to m
 
 ## I’m currently working on 
 - I'm currently working on a user registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
-- I'm developing an app for an e-commerce platform on the backend. <a> </a>
+- I'm developing an app for an e-commerce platform backend. <a> </a>
 
 ## Recent projects.
 .......
