@@ -13,11 +13,11 @@
 Hey everyone! As a programmer, being adaptable and self-managing is crucial to me. I tackle every challenge with energy and determination, seeing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused allows me to build solid, user-friendly solutions, driving technological advancement forward.
 
 ## I’m currently working on 
-- I'm currently working on a user registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
+
 - I'm developing an app for an e-commerce platform backend. <a> </a>
 
 ## Recent projects.
-.......
+- Registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
 
 ## Contact me
 
