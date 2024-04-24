@@ -18,7 +18,7 @@ Hey everyone! As a programmer, being adaptable and self-managing is crucial to m
 
 ## Recent projects.
 - Registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
-- An app for an e-commerce platform backend. <a> </a>
+- An app for an e-commerce platform backend. <a>https://github.com/Nicolaserd/EcommerceNicolas.git </a>
 
 ## Contact me
 
