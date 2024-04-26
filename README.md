@@ -13,7 +13,7 @@
 Hey everyone! As a programmer, being adaptable and self-managing is crucial to me. I tackle every challenge with energy and determination, seeing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused allows me to build solid, user-friendly solutions, driving technological advancement forward.
 
 ## I’m currently working on 
--I'm developing an application for sending WhatsApp messages and integrating an AI chatbot.
+- I'm developing an application for sending WhatsApp messages and integrating an AI chatbot.
 
 ## Recent projects.
 - Registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
