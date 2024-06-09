@@ -16,7 +16,7 @@ Hey everyone! As a programmer, being adaptable and self-managing is crucial to m
 - Registration for Jcofaith: <a href="https://clases-front-jcofaith.vercel.app/" target="_blank">https://clases-front-jcofaith.vercel.app/ </a>
 - An app for an e-commerce platform backend. <a>https://github.com/Nicolaserd/EcommerceNicolas.git </a>
 - I made a full-stack application for managing appointments. <a> https://github.com/Nicolaserd/Gestionturnos.git </a>
--  I made an application to connect companies with coworkings (backend) <a href="https://www.youtube.com/watch?v=LNkUfo6lnWY"></a>
+-  I made an application to connect companies with coworkings (backend) <a href="https://www.youtube.com/watch?v=LNkUfo6lnWY">Coco + video</a>
 
 ## Pending projects
 .......
