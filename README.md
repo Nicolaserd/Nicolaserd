@@ -1,10 +1,28 @@
-<h1 align="center">Hello, I'm Nicolas.</h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento HTML con JavaScript</title>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        let textoEscrito = document.getElementById("textoDescriptivo");
+        let texto = "Nicolas Inchaustegui Gonzalez";
+        let indice = 0;
+      
+        function agregarLetra() {
+          textoEscrito.textContent += texto.charAt(indice);
+          indice++;
+          if (indice < texto.length) {
+            setTimeout(agregarLetra, 100); // Intervalo entre letras (en milisegundos)
+          }
+        }
+      
+        agregarLetra(); // Iniciar la animación de escritura
+      });
+    </script>
+</head>
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
-</div>
+<h1 align="center" id="textoDescriptivo" >Hello, I'm Nicolas.</h1>
+
 
 
 ## Introduction
