@@ -26,6 +26,11 @@ Hey everyone! As a programmer, being adaptable and self-managing is crucial to m
 <a href="https://www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
 </a>
+<a href="https://wa.me/573057139607" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/733/733585.png" style="height: 20px;"/>
+</a>
+
+
 
 
 
