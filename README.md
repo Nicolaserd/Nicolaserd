@@ -45,7 +45,12 @@ También he venido fortaleciendo la organización de arquitectura frontend, la c
 </p>
 
 ---
+## Tecnologías y lenguajes
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,tailwind,mongodb,postgres,git,github,vscode,figma&perline=5" />
+</p>
+---
 ## Enfoque de trabajo
 
 ```text
