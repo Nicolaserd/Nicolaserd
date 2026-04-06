@@ -1,9 +1,15 @@
 <a id="home"></a>
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=header&animation=twinkling" width="100%" alt="" />
+
 <h1>NICOLAS INCHAUSTEGUI</h1>
 
 <p><code>INGENIERO DE SOFTWARE | WEB | AUTOMATIZACION | DATOS | IA</code></p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=ADC6FF&center=true&vCenter=true&width=900&height=40&lines=Backend+y+arquitectura+de+software;Analisis+de+datos+y+visualizacion;Power+BI+dashboarding;Automatizacion+y+flujos+con+IA" alt="Animacion de especialidades" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/DESARROLLO_WEB-131313?style=for-the-badge&logo=googlechrome&logoColor=4edea3&labelColor=131313&color=1c1b1b" alt="Desarrollo Web" />
@@ -41,6 +47,14 @@
 Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y escalables.  
 Mi enfoque combina arquitectura tecnica solida, analisis de datos, visualizacion y dashboarding con Power BI, junto con la agilidad de las nuevas tecnologias de IA para optimizar procesos y experiencias digitales.
 
+<p>
+  <img src="https://img.shields.io/badge/BACKEND-131313?style=flat-square&logo=serverfault&logoColor=adc6ff&color=1c1b1b" alt="Backend" />
+  <img src="https://img.shields.io/badge/DATOS-131313?style=flat-square&logo=databricks&logoColor=adc6ff&color=1c1b1b" alt="Datos" />
+  <img src="https://img.shields.io/badge/VISUALIZACION-131313?style=flat-square&logo=plotly&logoColor=4edea3&color=1c1b1b" alt="Visualizacion" />
+  <img src="https://img.shields.io/badge/POWER_BI-131313?style=flat-square&logo=powerbi&logoColor=ffb595&color=1c1b1b" alt="Power BI" />
+  <img src="https://img.shields.io/badge/IA_APLICADA-131313?style=flat-square&logo=openai&logoColor=ffb595&color=1c1b1b" alt="IA Aplicada" />
+</p>
+
 `Disciplina sobre ruido. Progreso sobre excusas.`
 
 ---
@@ -70,6 +84,13 @@ Mi enfoque combina arquitectura tecnica solida, analisis de datos, visualizacion
 <a id="trabajo-reciente"></a>
 ## 03 / Trabajo reciente
 
+<p>
+  <img src="https://img.shields.io/badge/E_COMMERCE-131313?style=flat-square&logo=shopify&logoColor=4edea3&color=1c1b1b" alt="Ecommerce" />
+  <img src="https://img.shields.io/badge/CHATBOTS-131313?style=flat-square&logo=whatsapp&logoColor=4edea3&color=1c1b1b" alt="Chatbots" />
+  <img src="https://img.shields.io/badge/APIS-131313?style=flat-square&logo=fastapi&logoColor=adc6ff&color=1c1b1b" alt="APIs" />
+  <img src="https://img.shields.io/badge/AUTOMATIZACION-131313?style=flat-square&logo=githubactions&logoColor=adc6ff&color=1c1b1b" alt="Automatizacion" />
+</p>
+
 ### Proyecto destacado
 
 | MOTOR DE AUTOMATIZACION V1 | Estado |
@@ -90,6 +111,12 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
 
 <a id="actividad-en-github"></a>
 ## 04 / Actividad en GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/METRICAS-131313?style=flat-square&logo=github&logoColor=e5e2e1&color=1c1b1b" alt="Metricas" />
+  <img src="https://img.shields.io/badge/LENGUAJES-131313?style=flat-square&logo=codefactor&logoColor=adc6ff&color=1c1b1b" alt="Lenguajes" />
+  <img src="https://img.shields.io/badge/ACTIVIDAD-131313?style=flat-square&logo=git&logoColor=4edea3&color=1c1b1b" alt="Actividad" />
+</p>
 
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicolaserd&theme=github_dark" alt="Estadisticas GitHub" />
@@ -136,6 +163,7 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=footer&animation=twinkling" width="100%" alt="" />
   <sub>KINETIC MONOLITH / PERFIL GITHUB</sub>
 </div>
 
