@@ -1,10 +1,6 @@
 <h1 align="center">Nicolás Inchaustegui</h1>
 <h3 align="center">Desarrollador de software enfocado en aplicaciones web, automatización y flujos de trabajo con IA</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Construyendo+soluciones+digitales+prácticas;Desarrollo+web+%7C+Automatización+%7C+Flujos+con+IA;Constancia%2C+claridad+y+ejecución" />
-</p>
-
 ---
 
 ## Sobre mí
@@ -19,11 +15,11 @@ JavaScript · React · Node.js · Express · Tailwind · MongoDB
 
 ---
 
-## Trabajo reciente
+## Trabajo realizado recientemente
 
-En los últimos proyectos he trabajado en el desarrollo de interfaces web, lógica orientada a flujos de usuario, soluciones con enfoque operativo, automatización de procesos y exploración de asistentes basados en IA.
+Recientemente he trabajado en el desarrollo de interfaces web modernas, estructuración de componentes reutilizables, implementación de lógica orientada a flujos de usuario y construcción de soluciones con enfoque práctico.
 
-También he venido fortaleciendo la forma en que estructuro aplicaciones, organizo componentes y conecto la experiencia visual con necesidades reales del producto.
+También he venido explorando automatización de procesos, organización de arquitectura frontend y aplicación de flujos de trabajo asistidos por inteligencia artificial para mejorar la eficiencia y la ejecución de proyectos.
 
 ---
 
@@ -46,4 +42,3 @@ También he venido fortaleciendo la forma en que estructuro aplicaciones, organi
 <p align="center">
   <i>Disciplina sobre ruido. Progreso sobre excusas.</i>
 </p>
-
