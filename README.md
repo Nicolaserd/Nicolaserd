@@ -3,11 +3,13 @@
 
 <h1>NICOLAS INCHAUSTEGUI</h1>
 
-<p><code>INGENIERO DE SOFTWARE | WEB | AUTOMATIZACION | IA</code></p>
+<p><code>INGENIERO DE SOFTWARE | WEB | AUTOMATIZACION | DATOS | IA</code></p>
 
 <p>
   <img src="https://img.shields.io/badge/DESARROLLO_WEB-131313?style=for-the-badge&logo=googlechrome&logoColor=4edea3&labelColor=131313&color=1c1b1b" alt="Desarrollo Web" />
   <img src="https://img.shields.io/badge/AUTOMATIZACION-131313?style=for-the-badge&logo=githubactions&logoColor=adc6ff&labelColor=131313&color=1c1b1b" alt="Automatizacion" />
+  <img src="https://img.shields.io/badge/ANALISIS_DE_DATOS-131313?style=for-the-badge&logo=databricks&logoColor=adc6ff&labelColor=131313&color=1c1b1b" alt="Analisis de datos" />
+  <img src="https://img.shields.io/badge/POWER_BI_DASHBOARDING-131313?style=for-the-badge&logo=powerbi&logoColor=ffb595&labelColor=131313&color=1c1b1b" alt="Power BI Dashboarding" />
   <img src="https://img.shields.io/badge/FLUJOS_CON_IA-131313?style=for-the-badge&logo=openai&logoColor=ffb595&labelColor=131313&color=1c1b1b" alt="Flujos con IA" />
 </p>
 
@@ -37,7 +39,7 @@
 ## 01 / Sobre mi
 
 Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y escalables.  
-Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tecnologias de IA para optimizar procesos y experiencias digitales.
+Mi enfoque combina arquitectura tecnica solida, analisis de datos, visualizacion y dashboarding con Power BI, junto con la agilidad de las nuevas tecnologias de IA para optimizar procesos y experiencias digitales.
 
 `Disciplina sobre ruido. Progreso sobre excusas.`
 
@@ -55,6 +57,8 @@ Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tec
   <img src="https://img.shields.io/badge/Express-131313?style=flat-square&logo=express&logoColor=e5e2e1&color=1c1b1b" alt="Express" />
   <img src="https://img.shields.io/badge/Tailwind-131313?style=flat-square&logo=tailwindcss&logoColor=38bdf8&color=1c1b1b" alt="Tailwind" />
   <img src="https://img.shields.io/badge/MongoDB-131313?style=flat-square&logo=mongodb&logoColor=4edea3&color=1c1b1b" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Power%20BI-131313?style=flat-square&logo=powerbi&logoColor=ffb595&color=1c1b1b" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Visualizacion-131313?style=flat-square&logo=plotly&logoColor=adc6ff&color=1c1b1b" alt="Visualizacion" />
   <img src="https://img.shields.io/badge/Git-131313?style=flat-square&logo=git&logoColor=ffb595&color=1c1b1b" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-131313?style=flat-square&logo=github&logoColor=e5e2e1&color=1c1b1b" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-131313?style=flat-square&logo=visualstudiocode&logoColor=adc6ff&color=1c1b1b" alt="VSCode" />
