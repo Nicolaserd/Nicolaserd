@@ -62,21 +62,6 @@ Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tec
 <a id="trabajo-reciente"></a>
 ## 03 / Trabajo reciente
 
-### Proyecto destacado
-
-| MOTOR DE AUTOMATIZACION V1 | Estado |
-| --- | --- |
-| [**EcommerceNicolas**](https://github.com/Nicolaserd/EcommerceNicolas) | `ACTIVO` |
-
-Backend de e-commerce con arquitectura modular, autenticacion, productos, ordenes, usuarios y carga de archivos.  
-Construido para eficiencia operativa, mantenibilidad y escalabilidad.
-
-`#NESTJS` `#TYPESCRIPT` `#MONGODB`
-
-### Otros proyectos recientes
-
-- [**Whatsappchatbot**](https://github.com/Nicolaserd/Whatsappchatbot) - Chatbot para WhatsApp orientado a automatizacion conversacional y flujos de integracion.
-- [**AsistenteEntreno**](https://github.com/Nicolaserd/AsistenteEntreno) - Aplicacion para asistencia de entrenamiento con separacion clara de frontend y backend.
 
 ---
 
