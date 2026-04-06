@@ -3,6 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=header&animation=twinkling" width="100%" alt="" />
 
+<img src="https://res.cloudinary.com/dwtkikc4r/image/upload/w_800/e_gradient_fade,y_-0.75/v1775494373/Person_programming_in_202604061133-ezgif.com-video-to-gif-converter_vmxnjn.gif" width="100%" alt="Banner animado programando" />
+
 <h1>NICOLAS INCHAUSTEGUI</h1>
 
 <p><code>INGENIERO DE SOFTWARE | WEB | AUTOMATIZACION | DATOS | IA</code></p>
