@@ -123,10 +123,20 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
   <img height="170" src="https://streak-stats.demolab.com?user=Nicolaserd&theme=transparent&background=00000000&border=353534&stroke=adc6ff&ring=4edea3&fire=4edea3&currStreakLabel=e5e2e1&sideNums=e5e2e1&sideLabels=adc6ff&dates=c1c6d7" alt="Racha GitHub" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolaserd&theme=github_dark" alt="Repositorios por lenguaje" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolaserd&theme=github_dark" alt="Lenguaje con mas commits" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><code>LENGUAJES POR REPOSITORIO</code></td>
+    <td align="center"><code>LENGUAJES POR COMMITS</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolaserd&theme=github_dark" alt="Repositorios por lenguaje" />
+    </td>
+    <td align="center">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolaserd&theme=github_dark" alt="Lenguaje con mas commits" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolaserd&bg_color=131313&color=e5e2e1&line=adc6ff&point=4edea3&area=true&area_color=1c1b1b&title_color=adc6ff&hide_border=true" alt="Grafica de actividad" />
@@ -166,4 +176,5 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=footer&animation=twinkling" width="100%" alt="" />
   <sub>KINETIC MONOLITH / PERFIL GITHUB</sub>
 </div>
+
 
