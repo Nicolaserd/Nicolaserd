@@ -3,15 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=header&animation=twinkling" width="100%" alt="" />
 
-<img src="https://res.cloudinary.com/dwtkikc4r/image/upload/w_800/e_gradient_fade,y_-0.75/v1775494373/Person_programming_in_202604061133-ezgif.com-video-to-gif-converter_vmxnjn.gif" width="100%" alt="Banner animado programando" />
+<img src="https://res.cloudinary.com/dwtkikc4r/image/upload/v1775503391/hero-scan_aahsde.svg" width="100%" alt="Animacion SVG decorativa" />
 
 <h1>NICOLAS INCHAUSTEGUI</h1>
 
 <p><code>INGENIERO DE SOFTWARE | WEB | AUTOMATIZACION | DATOS | IA</code></p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=ADC6FF&center=true&vCenter=true&width=900&height=40&lines=Backend+y+arquitectura+de+software;Analisis+de+datos+y+visualizacion;Power+BI+dashboarding;Automatizacion+y+flujos+con+IA" alt="Animacion de especialidades" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/DESARROLLO_WEB-131313?style=for-the-badge&logo=googlechrome&logoColor=4edea3&labelColor=131313&color=1c1b1b" alt="Desarrollo Web" />
@@ -86,28 +82,10 @@ Mi enfoque combina arquitectura tecnica solida, analisis de datos, visualizacion
 <a id="trabajo-reciente"></a>
 ## 03 / Trabajo reciente
 
-<p>
-  <img src="https://img.shields.io/badge/E_COMMERCE-131313?style=flat-square&logo=shopify&logoColor=4edea3&color=1c1b1b" alt="Ecommerce" />
-  <img src="https://img.shields.io/badge/CHATBOTS-131313?style=flat-square&logo=whatsapp&logoColor=4edea3&color=1c1b1b" alt="Chatbots" />
-  <img src="https://img.shields.io/badge/APIS-131313?style=flat-square&logo=fastapi&logoColor=adc6ff&color=1c1b1b" alt="APIs" />
-  <img src="https://img.shields.io/badge/AUTOMATIZACION-131313?style=flat-square&logo=githubactions&logoColor=adc6ff&color=1c1b1b" alt="Automatizacion" />
-</p>
+Recientemente he trabajado en el desarrollo de interfaces web modernas, estructuración de componentes reutilizables, implementación de lógica orientada a flujos de usuario y construcción de soluciones con enfoque práctico.
 
-### Proyecto destacado
+También he venido fortaleciendo la organización de arquitectura frontend, la claridad en la composición de interfaces y la aplicación de automatización y flujos con IA para mejorar la ejecución de proyectos.
 
-| MOTOR DE AUTOMATIZACION V1 | Estado |
-| --- | --- |
-| [**EcommerceNicolas**](https://github.com/Nicolaserd/EcommerceNicolas) | `ACTIVO` |
-
-Backend de e-commerce con arquitectura modular, autenticacion, productos, ordenes, usuarios y carga de archivos.  
-Construido para eficiencia operativa, mantenibilidad y escalabilidad.
-
-`#NESTJS` `#TYPESCRIPT` `#MONGODB`
-
-### Otros proyectos recientes
-
-- [**Whatsappchatbot**](https://github.com/Nicolaserd/Whatsappchatbot) - Chatbot para WhatsApp orientado a automatizacion conversacional y flujos de integracion.
-- [**AsistenteEntreno**](https://github.com/Nicolaserd/AsistenteEntreno) - Aplicacion para asistencia de entrenamiento con separacion clara de frontend y backend.
 
 ---
 
@@ -141,7 +119,8 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolaserd&bg_color=131313&color=e5e2e1&line=adc6ff&point=4edea3&area=true&area_color=1c1b1b&title_color=adc6ff&hide_border=true" alt="Grafica de actividad" />
+  <p><code>CALENDARIO DE CONTRIBUCIONES POR MESES</code></p>
+  <img src="https://ghchart.rshah.org/4edea3/Nicolaserd" alt="Calendario anual de contribuciones con etiquetas por mes" />
 </div>
 
 ---
@@ -178,5 +157,4 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=footer&animation=twinkling" width="100%" alt="" />
   <sub>KINETIC MONOLITH / PERFIL GITHUB</sub>
 </div>
-
 
