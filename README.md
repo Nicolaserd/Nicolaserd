@@ -14,7 +14,11 @@
 <p>
   <a href="https://github.com/Nicolaserd"><img src="https://img.shields.io/badge/GitHub-Nicolaserd-131313?style=flat-square&logo=github&logoColor=e5e2e1&color=353534" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205"><img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Inchaustegui-131313?style=flat-square&logo=linkedin&logoColor=adc6ff&color=353534" alt="LinkedIn" /></a>
-  <a href="https://www.nicolasinchaustegui.dev"><img src="https://img.shields.io/badge/Portfolio-nicolasinchaustegui.dev-131313?style=flat-square&logo=google-chrome&logoColor=4edea3&color=353534" alt="Portfolio" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/Nicolaserd?tab=followers"><img src="https://img.shields.io/github/followers/Nicolaserd?style=for-the-badge&logo=github&logoColor=adc6ff&label=SEGUIDORES&labelColor=131313&color=1c1b1b" alt="Seguidores" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nicolaserd&style=for-the-badge&color=4edea3&label=VISTAS" alt="Vistas del perfil" />
 </p>
 
 <p><code>EXPLORAR PROYECTOS -></code></p>
@@ -122,7 +126,6 @@ Construido para eficiencia operativa, mantenibilidad y escalabilidad.
 
 <a href="https://github.com/Nicolaserd"><img src="https://img.shields.io/badge/GITHUB-131313?style=for-the-badge&logo=github&logoColor=e5e2e1&labelColor=131313&color=1c1b1b" alt="GitHub Contacto" /></a>
 <a href="https://www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205"><img src="https://img.shields.io/badge/LINKEDIN-131313?style=for-the-badge&logo=linkedin&logoColor=adc6ff&labelColor=131313&color=1c1b1b" alt="LinkedIn Contacto" /></a>
-<a href="https://www.nicolasinchaustegui.dev"><img src="https://img.shields.io/badge/PORTFOLIO-131313?style=for-the-badge&logo=googlechrome&logoColor=4edea3&labelColor=131313&color=1c1b1b" alt="Portfolio Contacto" /></a>
 
 </div>
 
