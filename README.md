@@ -62,6 +62,21 @@ Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tec
 <a id="trabajo-reciente"></a>
 ## 03 / Trabajo reciente
 
+### Proyecto destacado
+
+| MOTOR DE AUTOMATIZACION V1 | Estado |
+| --- | --- |
+| [**EcommerceNicolas**](https://github.com/Nicolaserd/EcommerceNicolas) | `ACTIVO` |
+
+Backend de e-commerce con arquitectura modular, autenticacion, productos, ordenes, usuarios y carga de archivos.  
+Construido para eficiencia operativa, mantenibilidad y escalabilidad.
+
+`#NESTJS` `#TYPESCRIPT` `#MONGODB`
+
+### Otros proyectos recientes
+
+- [**Whatsappchatbot**](https://github.com/Nicolaserd/Whatsappchatbot) - Chatbot para WhatsApp orientado a automatizacion conversacional y flujos de integracion.
+- [**AsistenteEntreno**](https://github.com/Nicolaserd/AsistenteEntreno) - Aplicacion para asistencia de entrenamiento con separacion clara de frontend y backend.
 
 ---
 
@@ -69,12 +84,13 @@ Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tec
 ## 04 / Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolaserd&show_icons=true&theme=transparent&bg_color=00000000&title_color=adc6ff&text_color=e5e2e1&icon_color=4edea3&border_color=353534&include_all_commits=true" alt="Estadisticas GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicolaserd&theme=github_dark" alt="Estadisticas GitHub" />
   <img height="170" src="https://streak-stats.demolab.com?user=Nicolaserd&theme=transparent&background=00000000&border=353534&stroke=adc6ff&ring=4edea3&fire=4edea3&currStreakLabel=e5e2e1&sideNums=e5e2e1&sideLabels=adc6ff&dates=c1c6d7" alt="Racha GitHub" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaserd&layout=compact&theme=transparent&bg_color=00000000&title_color=adc6ff&text_color=e5e2e1&border_color=353534" alt="Lenguajes principales" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolaserd&theme=github_dark" alt="Repositorios por lenguaje" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolaserd&theme=github_dark" alt="Lenguaje con mas commits" />
 </div>
 
 <div align="center">
@@ -115,3 +131,4 @@ Mi enfoque combina arquitectura tecnica solida con la agilidad de las nuevas tec
 <div align="center">
   <sub>KINETIC MONOLITH / PERFIL GITHUB</sub>
 </div>
+
