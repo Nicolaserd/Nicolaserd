@@ -12,7 +12,6 @@
 <p>
   <a href="https://github.com/Nicolaserd"><img src="https://img.shields.io/badge/GitHub-Nicolaserd-131313?style=flat-square&logo=github&logoColor=e5e2e1&color=353534" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nicolas-inchaustegui-gonzalez-b25246205"><img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Inchaustegui-131313?style=flat-square&logo=linkedin&logoColor=adc6ff&color=353534" alt="LinkedIn" /></a>
-  <a href="https://www.nicolasinchaustegui.dev"><img src="https://img.shields.io/badge/Portfolio-nicolasinchaustegui.dev-131313?style=flat-square&logo=google-chrome&logoColor=4edea3&color=353534" alt="Portfolio" /></a>
 </p>
 
 </div>
