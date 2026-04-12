@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nicolaserd&style=for-the-badge&color=4edea3&label=VISTAS" alt="Vistas del perfil" />
 </p>
 
-<p><code>EXPLORAR PROYECTOS ↓</code></p>
+<p><code>EXPLORAR PROYECTOS -></code></p>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ## Navegacion
 
-[INICIO](#home) | [SOBRE MI](#sobre-mi) | [STACK](#stack-principal) | [PROYECTOS](#proyectos-recientes-y-destacados) | [POWER BI](#power-bi) | [GITHUB](#actividad-en-github) | [ENFOQUE](#enfoque-de-trabajo) | [CONTACTO](#contacto)
+[INICIO](#home) | [SOBRE MI](#sobre-mi) | [STACK](#stack-principal) | [PROYECTOS](#proyectos-recientes-y-destacados) | [DESARROLLOS](#desarrollos-recientes) | [POWER BI](#power-bi) | [GITHUB](#actividad-en-github) | [ENFOQUE](#enfoque-de-trabajo) | [CONTACTO](#contacto)
 
 ---
 
@@ -86,6 +86,48 @@ Mi enfoque combina arquitectura tecnica, limpieza y modelado de datos, visualiza
 ## 03 / Proyectos recientes y destacados
 
 Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline: tambien importa que la lectura sea clara, util y accionable para quien toma decisiones.
+
+<a id="desarrollos-recientes"></a>
+### Desarrollos recientes
+
+<p>
+  <img src="https://img.shields.io/badge/WEB_APPS-131313?style=flat-square&logo=googlechrome&logoColor=4edea3&color=1c1b1b" alt="Web apps" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-131313?style=flat-square&logo=typescript&logoColor=adc6ff&color=1c1b1b" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NEXT.js-131313?style=flat-square&logo=nextdotjs&logoColor=e5e2e1&color=1c1b1b" alt="Next.js" />
+  <img src="https://img.shields.io/badge/ASTRO-131313?style=flat-square&logo=astro&logoColor=ffb595&color=1c1b1b" alt="Astro" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-131313?style=flat-square&logo=react&logoColor=61dafb&color=1c1b1b" alt="React Native" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>UdecData</h3>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Automatizacion de reportes</code></p>
+      <p>Aplicacion web orientada a la automatizacion del boletin estudiantil, con carga de archivos, normalizacion inteligente y consolidacion de datos para generar reportes estandarizados.</p>
+      <p><a href="https://udec-data.vercel.app/">Ver demo</a> | <a href="https://github.com/Nicolaserd/UdecData">Ver repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lab de Teoria de Juegos</h3>
+      <p><code>Astro</code> <code>TypeScript</code> <code>AHP</code> <code>Equilibrio de Nash</code></p>
+      <p>Laboratorio interactivo para explorar teoria de juegos, medir habilidades estrategicas y experimentar con herramientas de decision a traves de tests y modulos analiticos.</p>
+      <p><a href="https://nicolaserd.github.io/Astroproyectzodiac/">Ver demo</a> | <a href="https://github.com/Nicolaserd/Lab-de-Teoria-de-Juegos">Ver repositorio</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Prestamo App</h3>
+      <p><code>React Native</code> <code>Expo</code> <code>SQLite</code> <code>Arquitectura modular</code></p>
+      <p>Aplicacion movil para gestion de prestamos con persistencia local, dashboard de estadisticas y una estructura modular pensada para mantener escalabilidad y orden en el proyecto.</p>
+      <p><a href="https://github.com/Nicolaserd/Prestamo-App-Expo-Arquitectura-Modular-">Ver repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dashboarding Service</h3>
+      <p><code>Plataforma B2B</code> <code>Arquitectura de servicio</code> <code>Dashboarding</code></p>
+      <p>Propuesta de plataforma para conectar empresas cliente con elaboradores de dashboards, centralizando gestion de proyectos, entrega y consumo de visualizaciones interactivas.</p>
+      <p><a href="https://github.com/Nicolaserd/Dashboarding_Service">Ver repositorio</a></p>
+    </td>
+  </tr>
+</table>
 
 <a id="power-bi"></a>
 ### Power BI / Analisis de datos
