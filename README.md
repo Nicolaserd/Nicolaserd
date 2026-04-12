@@ -85,7 +85,7 @@ Mi enfoque combina arquitectura tecnica, limpieza y modelado de datos, visualiza
 <a id="proyectos-recientes-y-destacados"></a>
 ## 03 / Proyectos recientes y destacados
 
-Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline: tambien importa que la lectura sea clara, util y accionable para quien toma decisiones.
+Desarrollo productos y soluciones donde la parte tecnica va de la mano con la claridad de uso, la automatizacion y la capacidad de convertir informacion en decisiones utiles.
 
 <a id="desarrollos-recientes"></a>
 ### Desarrollos recientes
@@ -98,32 +98,34 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
   <img src="https://img.shields.io/badge/REACT_NATIVE-131313?style=flat-square&logo=react&logoColor=61dafb&color=1c1b1b" alt="React Native" />
 </p>
 
+Aplicaciones y prototipos recientes enfocados en automatizacion, experiencia de usuario y herramientas practicas para resolver flujos reales.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>UdecData</h3>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Automatizacion de reportes</code></p>
-      <p>Aplicacion web orientada a la automatizacion del boletin estudiantil, con carga de archivos, normalizacion inteligente y consolidacion de datos para generar reportes estandarizados.</p>
+      <p>Aplicacion web para automatizar el procesamiento del boletin estudiantil, desde la carga de archivos hasta la normalizacion y consolidacion de datos para generar reportes listos para analisis y seguimiento.</p>
       <p><a href="https://udec-data.vercel.app/">Ver demo</a> | <a href="https://github.com/Nicolaserd/UdecData">Ver repositorio</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Lab de Teoria de Juegos</h3>
       <p><code>Astro</code> <code>TypeScript</code> <code>AHP</code> <code>Equilibrio de Nash</code></p>
-      <p>Laboratorio interactivo para explorar teoria de juegos, medir habilidades estrategicas y experimentar con herramientas de decision a traves de tests y modulos analiticos.</p>
-      <p><a href="https://nicolaserd.github.io/Astroproyectzodiac/">Ver demo</a> | <a href="https://github.com/Nicolaserd/Lab-de-Teoria-de-Juegos">Ver repositorio</a></p>
+      <p>Laboratorio interactivo para explorar teoria de juegos y toma de decisiones, con tests de perfil estrategico y modulos analiticos para trabajar equilibrio de Nash y AHP.</p>
+      <p><a href="https://nicolaserd.github.io/Astroproyectzodiac/">Ver demo</a> | <a href="https://github.com/Nicolaserd/Astroproyectzodiac">Ver repositorio</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Prestamo App</h3>
       <p><code>React Native</code> <code>Expo</code> <code>SQLite</code> <code>Arquitectura modular</code></p>
-      <p>Aplicacion movil para gestion de prestamos con persistencia local, dashboard de estadisticas y una estructura modular pensada para mantener escalabilidad y orden en el proyecto.</p>
+      <p>Aplicacion movil para gestionar prestamos, beneficiarios, pagos y estadisticas locales, organizada con una arquitectura modular pensada para mantener orden, escalabilidad y claridad en la base de codigo.</p>
       <p><a href="https://github.com/Nicolaserd/Prestamo-App-Expo-Arquitectura-Modular-">Ver repositorio</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Dashboarding Service</h3>
       <p><code>Plataforma B2B</code> <code>Arquitectura de servicio</code> <code>Dashboarding</code></p>
-      <p>Propuesta de plataforma para conectar empresas cliente con elaboradores de dashboards, centralizando gestion de proyectos, entrega y consumo de visualizaciones interactivas.</p>
+      <p>Propuesta de plataforma B2B para conectar empresas cliente con elaboradores de dashboards, centralizando gestion de proyectos, servicios y entrega de visualizaciones interactivas.</p>
       <p><a href="https://github.com/Nicolaserd/Dashboarding_Service">Ver repositorio</a></p>
     </td>
   </tr>
@@ -140,7 +142,7 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
   <img src="https://img.shields.io/badge/DAX-131313?style=flat-square&logo=powerbi&logoColor=ffb595&color=1c1b1b" alt="DAX" />
 </p>
 
-<br /><br />
+Proyectos de analitica y visualizacion construidos en Power BI, con enfasis en ETL, limpieza de datos, modelado y seguimiento de indicadores.
 
 <table>
   <tr>
@@ -150,11 +152,11 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
       </a>
     </td>
     <td width="46%" valign="top">
-      <h3>Encuentros dialogicos</h3>
+      <h3>Encuentros Dialogicos</h3>
       <p><code>ETL</code> <code>Limpieza de datos</code> <code>Cruce de bases</code> <code>DAX</code></p>
-      <p>Dashboard de seguimiento para consolidar planes de mejoramiento, asistencia y percepcion de estudiantes y docentes a partir de multiples fuentes institucionales.</p>
-      <p>Se realizo limpieza, homologacion y cruce de bases para convertir registros dispersos en una vista navegable por unidad regional, programa, facultad, encuentro y estado de cumplimiento.</p>
-      <p>Este proyecto me permitio convertir la retroalimentacion de la comunidad en un tablero claro, navegable y util para hacer seguimiento a compromisos, participacion y satisfaccion.</p>
+      <p>Dashboard de seguimiento orientado a consolidar planes de mejoramiento, asistencia y percepcion de estudiantes y docentes a partir de multiples fuentes institucionales.</p>
+      <p>Incluye limpieza, homologacion y cruce de bases para organizar la informacion por unidad regional, programa, facultad, encuentro y estado de cumplimiento.</p>
+      <p>El resultado es una vista clara para hacer seguimiento a compromisos, participacion y satisfaccion dentro del proceso institucional.</p>
       <p><a href="https://app.powerbi.com/view?r=eyJrIjoiMmY2ZWYwYTctMWVlZS00M2M2LWFiNGEtN2MzNGM1ODJhOWIyIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9">Ver dashboard</a></p>
     </td>
   </tr>
@@ -170,11 +172,11 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
       </a>
     </td>
     <td width="46%" valign="top">
-      <h3>Boletin estadistico institucional</h3>
+      <h3>Boletin Estadistico Institucional</h3>
       <p><code>ETL</code> <code>Limpieza de datos</code> <code>DAX</code> <code>Analisis predictivo</code></p>
       <p>Tablero integral construido en Power BI para consolidar oferta academica, poblacion estudiantil, talento humano, desercion, planta fisica, apoyos financieros, investigacion y semilleros.</p>
-      <p>Ademas del modelado y la depuracion de fuentes, se desarrollo un ejercicio predictivo sobre desercion academica mediante analisis historico y tratamiento de datos atipicos para obtener una lectura mas consistente.</p>
-      <p>Este tablero integra indicadores institucionales en una sola vista y aporta contexto para identificar variaciones, analizar tendencias y apoyar la planeacion.</p>
+      <p>Ademas del modelado y la depuracion de fuentes, incorpora un ejercicio predictivo sobre desercion academica con analisis historico y tratamiento de datos atipicos.</p>
+      <p>La solucion centraliza indicadores en una sola vista y facilita el analisis de tendencias, variaciones y apoyo a la planeacion.</p>
       <p><a href="https://app.powerbi.com/view?r=eyJrIjoiYzE4NzhiNzgtMmViMS00YTNkLTg5YTMtOWEwNjg1N2FiYTYzIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9">Ver dashboard</a></p>
     </td>
   </tr>
