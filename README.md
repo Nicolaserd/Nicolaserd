@@ -88,7 +88,7 @@ Mi enfoque combina arquitectura tecnica, limpieza y modelado de datos, visualiza
 Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline: tambien importa que la lectura sea clara, util y accionable para quien toma decisiones.
 
 <a id="power-bi"></a>
-### Power BI / Analitica institucional
+### Power BI / Analisis de datos
 
 <p>
   <img src="https://img.shields.io/badge/POWER_BI-131313?style=flat-square&logo=powerbi&logoColor=ffd54f&color=1c1b1b" alt="Power BI" />
@@ -96,10 +96,7 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
   <img src="https://img.shields.io/badge/LIMPIEZA_DE_DATOS-131313?style=flat-square&logo=databricks&logoColor=4edea3&color=1c1b1b" alt="Limpieza de datos" />
   <img src="https://img.shields.io/badge/CRUCE_DE_BASES-131313?style=flat-square&logo=microsoftexcel&logoColor=4edea3&color=1c1b1b" alt="Cruce de bases" />
   <img src="https://img.shields.io/badge/DAX-131313?style=flat-square&logo=powerbi&logoColor=ffb595&color=1c1b1b" alt="DAX" />
-  <img src="https://img.shields.io/badge/CAPTURAS_CON_PLAYWRIGHT-131313?style=flat-square&logo=playwright&logoColor=45ba4b&color=1c1b1b" alt="Capturas con Playwright" />
 </p>
-
-<sub>Los GIFs de esta seccion fueron generados a partir de capturas automatizadas de los dashboards.</sub>
 
 <br /><br />
 
@@ -115,7 +112,7 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
       <p><code>ETL</code> <code>Limpieza de datos</code> <code>Cruce de bases</code> <code>DAX</code></p>
       <p>Dashboard de seguimiento para consolidar planes de mejoramiento, asistencia y percepcion de estudiantes y docentes a partir de multiples fuentes institucionales.</p>
       <p>Se realizo limpieza, homologacion y cruce de bases para convertir registros dispersos en una vista navegable por unidad regional, programa, facultad, encuentro y estado de cumplimiento.</p>
-      <p><strong>Lectura ejecutiva:</strong> el tablero transforma la retroalimentacion de la comunidad en seguimiento accionable, con trazabilidad clara sobre compromisos, participacion y satisfaccion.</p>
+      <p>Este proyecto me permitio convertir la retroalimentacion de la comunidad en un tablero claro, navegable y util para hacer seguimiento a compromisos, participacion y satisfaccion.</p>
       <p><a href="https://app.powerbi.com/view?r=eyJrIjoiMmY2ZWYwYTctMWVlZS00M2M2LWFiNGEtN2MzNGM1ODJhOWIyIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9">Ver dashboard</a></p>
     </td>
   </tr>
@@ -135,18 +132,11 @@ Trabajo en productos y tableros donde la parte tecnica no termina en el pipeline
       <p><code>ETL</code> <code>Limpieza de datos</code> <code>DAX</code> <code>Analisis predictivo</code></p>
       <p>Tablero integral construido en Power BI para consolidar oferta academica, poblacion estudiantil, talento humano, desercion, planta fisica, apoyos financieros, investigacion y semilleros.</p>
       <p>Ademas del modelado y la depuracion de fuentes, se desarrollo un ejercicio predictivo sobre desercion academica mediante analisis historico y tratamiento de datos atipicos para obtener una lectura mas consistente.</p>
-      <p><strong>Lectura ejecutiva:</strong> el dashboard no solo resume indicadores institucionales; tambien ayuda a anticipar comportamientos, detectar variaciones y conectar operacion con planeacion estrategica.</p>
+      <p>Este tablero integra indicadores institucionales en una sola vista y aporta contexto para identificar variaciones, analizar tendencias y apoyar la planeacion.</p>
       <p><a href="https://app.powerbi.com/view?r=eyJrIjoiYzE4NzhiNzgtMmViMS00YTNkLTg5YTMtOWEwNjg1N2FiYTYzIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9">Ver dashboard</a></p>
     </td>
   </tr>
 </table>
-
-<br />
-
-<p>
-  <img src="./assets/powerbi/encuentros-dialogicos.png" alt="Captura de encuentros dialogicos" width="49%" />
-  <img src="./assets/powerbi/boletin-estadistico.png" alt="Captura del boletin estadistico" width="49%" />
-</p>
 
 ---
 
