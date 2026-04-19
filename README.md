@@ -7,7 +7,7 @@
 
 <h1>Hola, soy Nicolás Incháustegui 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4EDEA3&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Desarrollador+Web+Full+Stack;Especialista+en+Datos+y+Power+BI;Apasionado+por+la+IA+y+Automatizaci%C3%B3n" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4EDEA3&center=true&vCenter=true&width=600&lines=JavaScript,+TypeScript,+React,+Next.js;Node.js,+PostgreSQL,+Supabase,+Prisma;Power+BI,+DAX,+ETL,+An%C3%A1lisis+de+Datos;Automatizaci%C3%B3n,+Integraci%C3%B3n+de+IA" alt="Typing SVG" /></a>
 
 <br/>
 
