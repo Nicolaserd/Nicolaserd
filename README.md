@@ -71,6 +71,9 @@ Mi enfoque combina arquitectura tecnica, limpieza y modelado de datos, visualiza
   <img src="https://img.shields.io/badge/Express-131313?style=flat-square&logo=express&logoColor=e5e2e1&color=1c1b1b" alt="Express" />
   <img src="https://img.shields.io/badge/Tailwind-131313?style=flat-square&logo=tailwindcss&logoColor=38bdf8&color=1c1b1b" alt="Tailwind" />
   <img src="https://img.shields.io/badge/MongoDB-131313?style=flat-square&logo=mongodb&logoColor=4edea3&color=1c1b1b" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-131313?style=flat-square&logo=postgresql&logoColor=adc6ff&color=1c1b1b" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-131313?style=flat-square&logo=supabase&logoColor=4edea3&color=1c1b1b" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-131313?style=flat-square&logo=prisma&logoColor=e5e2e1&color=1c1b1b" alt="Prisma" />
   <img src="https://img.shields.io/badge/Power_BI-131313?style=flat-square&logo=powerbi&logoColor=ffb595&color=1c1b1b" alt="Power BI" />
   <img src="https://img.shields.io/badge/Power_Query-131313?style=flat-square&logo=powerbi&logoColor=ffd54f&color=1c1b1b" alt="Power Query" />
   <img src="https://img.shields.io/badge/DAX-131313?style=flat-square&logo=powerbi&logoColor=ffe082&color=1c1b1b" alt="DAX" />
@@ -104,8 +107,9 @@ Aplicaciones y prototipos recientes enfocados en automatizacion, experiencia de 
   <tr>
     <td width="50%" valign="top">
       <h3>UdecData</h3>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Automatizacion de reportes</code></p>
-      <p>Aplicacion web para automatizar el procesamiento del boletin estudiantil, desde la carga de archivos hasta la normalizacion y consolidacion de datos para generar reportes listos para analisis y seguimiento.</p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Supabase/PostgreSQL</code> <code>Prisma</code> <code>IA</code></p>
+      <p>Portal de inteligencia academica para la Universidad de Cundinamarca que centraliza reportes, analitica institucional, pronostico de poblacion estudiantil, Encuentros Dialogicos y agentes de IA para consulta y soporte.</p>
+      <p>Incluye automatizacion de boletines, carga de CSV/Excel, normalizacion de datos, dashboards filtrables, exportacion a Excel y consultas institucionales read-only desde el agente analista.</p>
       <p><a href="https://udec-data.vercel.app/">Ver demo</a> | <a href="https://github.com/Nicolaserd/UdecData">Ver repositorio</a></p>
     </td>
     <td width="50%" valign="top">
