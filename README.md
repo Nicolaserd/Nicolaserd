@@ -146,11 +146,10 @@ Aplicaciones y prototipos recientes enfocados en automatización, experiencia de
       <p>📦 <a href="https://github.com/Nicolaserd/Prestamo-App-Expo-Arquitectura-Modular-">Repositorio</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/Nicolaserd/Dashboarding_Service">Dashboarding Service</a></h3>
-      <p><code>Plataforma B2B</code> <code>Arquitectura de servicio</code> <code>Dashboarding</code></p>
-      <p>Propuesta de plataforma B2B para conectar empresas cliente con elaboradores de dashboards, centralizando gestión de proyectos y entrega de visualizaciones interactivas.</p>
-      <br/>
-      <p>📦 <a href="https://github.com/Nicolaserd/Dashboarding_Service">Repositorio</a></p>
+      <h3>🤖 <a href="https://t.me/Mario1379_bot">Bot IA Telegram</a></h3>
+      <p><code>NestJS</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>JWT</code> <code>IA</code></p>
+      <p>Backend en NestJS para un bot de Telegram con autenticación, roles, base de datos cifrada y respuestas en tiempo real asistidas por Inteligencia Artificial.</p>
+      <p>🔗 <a href="https://t.me/Mario1379_bot">Demo</a> &nbsp; | &nbsp; 📦 <a href="https://github.com/Nicolaserd/BotIATelegram">Repositorio</a></p>
     </td>
   </tr>
 </table>
