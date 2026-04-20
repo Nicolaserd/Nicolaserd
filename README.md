@@ -149,7 +149,7 @@ Aplicaciones y prototipos recientes enfocados en automatización, experiencia de
       <h3>🤖 <a href="https://t.me/Mario1379_bot">Bot IA Telegram</a></h3>
       <p><code>NestJS</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>JWT</code> <code>IA</code></p>
       <p>Backend en NestJS para un bot de Telegram con autenticación, roles, base de datos cifrada y respuestas en tiempo real asistidas por Inteligencia Artificial.</p>
-      <p>🔗 <a href="https://t.me/Mario1379_bot">Demo</a> &nbsp; | &nbsp; 📦 <a href="https://github.com/Nicolaserd/BotIATelegram">Repositorio</a></p>
+      <p>🔗 <a href="https://t.me/Mario1379_bot">Demo</a> &nbsp; | &nbsp; 🌐 <a href="https://whatsappchatbot-sigma.vercel.app/">Deploy</a> &nbsp; | &nbsp; 📦 <a href="https://github.com/Nicolaserd/BotIATelegram">Repositorio</a></p>
     </td>
   </tr>
 </table>
