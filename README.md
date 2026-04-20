@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:1c1b1b,100:131313&height=4&section=header&animation=twinkling" width="100%" alt="" />
 
 <div style="overflow: hidden; border-radius: 8px;">
-  <video src="https://github.com/Nicolaserd/Nicolaserd/raw/main/assets/powerbi/Golden_spirals_faded.mp4" autoplay loop muted playsinline width="100%" style="margin-bottom: -30px; display: block;"></video>
+  <video src="https://github.com/Nicolaserd/Nicolaserd/blob/main/assets/powerbi/Golden_spirals_on_202604192119.mp4" autoplay loop muted playsinline width="100%" style="margin-bottom: -30px; display: block;"></video>
 </div>
 
 <h1>Hola, soy Nicolás Incháustegui 👋</h1>
