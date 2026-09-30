@@ -141,12 +141,7 @@ Aplicaciones y prototipos recientes enfocados en automatización, experiencia de
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/Nicolaserd/Prestamo-App-Expo-Arquitectura-Modular-">Prestamo App</a></h3>
-      <p><code>React Native</code> <code>Expo</code> <code>SQLite</code> <code>Arquitectura modular</code></p>
-      <p>Aplicación móvil para gestionar préstamos, beneficiarios, pagos y estadísticas locales, organizada con una arquitectura modular pensada para mantener orden y escalabilidad.</p>
-      <p>📦 <a href="https://github.com/Nicolaserd/Prestamo-App-Expo-Arquitectura-Modular-">Repositorio</a></p>
-    </td>
+    
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://t.me/Mario1379_bot">Bot IA Telegram</a></h3>
       <p><code>NestJS</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>JWT</code> <code>IA</code></p>
